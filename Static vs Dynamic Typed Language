@@ -30,5 +30,4 @@ Dynamic Typed Language:
 	• Errors are detected later during execution.
 	• Variable assignments are dynamic and can be altered.
 	• There is a tendency for slower execution because they type information for every variable has to be retrieved at runtime
-	
-Example: Python, Javascript
+	• Example: Python, Javascript
