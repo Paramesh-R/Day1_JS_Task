@@ -1,0 +1,9 @@
+Scripting Language:
+	• Scripting Language are Interpreted (directly executes instructions written in Programming language without converting them to Object Code).
+  • Scripting language is Program-depedant (User needs to run scripting language inside an existing program)
+	• Example: Javascript, Python
+	
+Programming Language:
+	• Programming Language are compiled (Convert High level language to Machine code)
+  • Programming language are program-independent.
+  • Example: C, C++, Java
