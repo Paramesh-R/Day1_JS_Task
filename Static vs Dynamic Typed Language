@@ -1,0 +1,34 @@
+Data Type:
+	A Data type in programming language refers to a characteristic that define the nature of the value that a data element has.
+	Example: String, Integer, Character and Boolean
+
+Type Checking:
+	Every programming language has a system of checking that values have been assigned their correct types, which is known as Type Checking.
+	
+Compile Time:
+  Phase in which Source code is converted to machine readable format.
+
+Runtime:
+  Time period between start and end of running intermediate code at runtime environment.
+
+
+
+Static Typed Language:
+	• Type checking occurs at Compile Time.
+  • Variables are checked agaist types before Source code is compiled.
+	• Explicit Type declaration is usually required.
+	• Errors are detected earlier.
+	• Variable assignments are static and cannot be changed.
+	• Static Typed Language typically perform better at execution time because type checking has already been completed.
+	
+	• Example: Java, C, C++, C#
+	
+Dynamic Typed Language:
+	• In Dynamically typed language, Type checking takes place at Runtime or execution time.
+	• Variables are checked against types only when the program is executing.
+	• Explicit Type declarations are not required.
+	• Errors are detected later during execution.
+	• Variable assignments are dynamic and can be altered.
+	• There is a tendency for slower execution because they type information for every variable has to be retrieved at runtime
+	
+Example: Python, Javascript
