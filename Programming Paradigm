@@ -1,0 +1,80 @@
+Programming Paradigm:
+
+Paradigm - Method to solve some problems or do some task
+
+Programming Paradigm is an approach to solve problem using some programming language.
+
+
+To fulfill each and every demand there are lots of paradigms as given below.
+	1. Imperative
+		a. Procedural
+		b. Object Oriented
+			a. Class based
+			b. Prototype based
+		
+	2. Declarative
+	3. Structures
+	4. Functional
+	5. Function-Level
+	6. Event-Driven 
+	7. Flow driven
+	8. Logic
+	9. Constraint
+	10. Aspect Oriented
+	11. Reflective
+	12. Array
+	
+Note: A Single Program can feature multiple paradigms
+
+
+IMPERATIVE PROGRAMMING:
+	• Control flow in Imperative programming is EXPLICIT.
+	• Command show how the computation takes place, step by step.
+	• It works by changing the program state through assignment statements.
+	• It performs step by step task by changing state.
+	• Advantage:
+		○ Very simple to implement
+		○ It contains loops, variables, etc..
+	• Disadvantage:
+		○ Complex programming cannot be solved 
+		○ Less efficient and less productive
+		○ Parallel programming not possible
+	• Categories of IMPERATIVE PROGRAMMING:
+		○ Procedural programming paradigm: 
+			§ Procedural programming has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.
+		○ Object Oriented Programming Paradigm:
+			§ The program is written as collection of classes and object which are meant for communication.
+			§ The smallest and basic entity is object and all kinds of computation is performed on the objects only.
+			§ More emphasis is on data rather than procedure.
+			§ It can handle almost all kind of real life problems.
+			§ Advantage:
+				□ Data Security
+				□ Inheritance
+				□ Code Reusability
+				□ Flexible and Abstraction is also present
+		○ Parallel Processing Approach:
+			§ Parallel processing is the processing of program instructions by dividing them among multiple processors
+			§ It possess many numbers of processor with the objective of running a program in less time by dividing them.
+			§ This approach seems to be like divide and conquer. 
+DECLARATIVE PROGRAMMING PARADIGM:
+	• It is divided as Logic, Functional, Database.
+	• It is a style of building programs that express logic of computation without talking about its control flow.
+	• The focus is on what needs to be done rather than how it should be done basically emphasize on what code is actually doing.
+	• This is the only difference between Imperative (How to do) and declarative (what to do)
+	• Categories:
+		○ Logic Programming Paradigms:
+			§ It can be termed as abstract model of computation.
+			§ The main emphasize is on knowledge base and the problem.
+			§ The execution of program is very much like proof of mathematical statement
+			§ Example: Prolog - Programmer specifies what goals are to be accomplished but not how specific methods are to be applied to attain those goals.
+		○ Functional Programming Paradigm:
+			§ The Key principle of this paradigm is the execution of series of mathematical functions.
+			§ The function hide their implementation.
+			§ Data are loosely coupled to functions.
+			§ Function can be replaced with their values without changing the meaning of the program.
+		○ Database / Data driven programming approach:
+			§ This programming methodology is based on data and its movement.
+			§ Program statements are defined by data rather than hard-coding a series of steps.
+			§ Database program is the heart of a business information system and provides file creation, data entry, update, query and reporting functions.
+			§ Example: SQL
+			§ It is applied to streams of structured data, for filtering, transforming, aggregating or calling other programs.
